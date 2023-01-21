@@ -2402,7 +2402,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices CGギャラリー,ストーリー鑑賞,実績ルーム,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices CG画廊,故事回想,成就房间,返回"
                             ]
                         },
                         {
@@ -2462,7 +2462,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices Chapter1,Chapter2,Chapter3,Ending,Secret,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 第一章,第二章,第三章,结局,隐藏剧情,返回"
                             ]
                         },
                         {
@@ -2487,7 +2487,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices プロローグ,日々の記憶,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 序幕,过去的时光,返回"
                             ]
                         },
                         {
@@ -2740,7 +2740,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices わたしの記憶,ヴァイオの記憶,モモノの記憶,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 我的记忆,薇欧的记忆,桃野的记忆,返回"
                             ]
                         },
                         {
@@ -3049,7 +3049,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices ノエルの話,地上へ,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 与诺尔的对话,地表之上,返回"
                             ]
                         },
                         {
@@ -3374,7 +3374,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices 『おつかれさま』,『ごめんなさい』,『はじめまして』,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 『辛苦了』,『对不起』,『你好，初次见面』,返回"
                             ]
                         },
                         {
@@ -3799,7 +3799,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices ある二人の記憶,ある女性の記憶,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 那两个人的记忆,那位女性的记忆,返回"
                             ]
                         },
                         {

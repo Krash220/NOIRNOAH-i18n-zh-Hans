@@ -1278,7 +1278,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "B2F資料室",
+    "displayName": "地下2层资料室",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -2604,7 +2604,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setMessageText どのデータを閲覧する？"
+                                "LL_GalgeChoiceWindowMV setMessageText 要查看哪些数据呢？"
                             ]
                         },
                         {
@@ -2639,7 +2639,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices 計画についての資料,日誌（記録媒体が必要）,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 与计划相关的资料,日志（需要对应日志存储体）,返回"
                             ]
                         },
                         {
@@ -3200,7 +3200,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -3224,7 +3224,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -3287,7 +3287,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices 職員日誌1,職員日誌2,職員日誌3,職員日誌4,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 职员日志1,职员日志2,职员日志3,职员日志4,返回"
                             ]
                         },
                         {

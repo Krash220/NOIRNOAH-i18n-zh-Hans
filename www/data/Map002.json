@@ -1458,7 +1458,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "B1F西廊下",
+    "displayName": "地下1层西通道",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -2397,7 +2397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2421,7 +2421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2587,7 +2587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2703,7 +2703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2919,7 +2919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {

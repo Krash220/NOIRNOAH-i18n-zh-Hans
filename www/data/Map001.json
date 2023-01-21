@@ -1188,7 +1188,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "B1Fメンテナンス室",
+    "displayName": "地下1层维护室",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -1935,7 +1935,7 @@
                                 1,
                                 0,
                                 4,
-                                "'Chapter0'"
+                                "'序章'"
                             ]
                         },
                         {
@@ -2091,7 +2091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2115,7 +2115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2165,7 +2165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2307,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2622,7 +2622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2646,7 +2646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2670,7 +2670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -2722,7 +2722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -3191,7 +3191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -4445,7 +4445,7 @@
                             "code": 401,
                             "indent": 18,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -4469,7 +4469,7 @@
                             "code": 401,
                             "indent": 18,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -4660,7 +4660,7 @@
                             "code": 401,
                             "indent": 19,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -4864,7 +4864,7 @@
                             "code": 401,
                             "indent": 21,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -5877,7 +5877,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setMessageText 下におりる？"
+                                "LL_GalgeChoiceWindowMV setMessageText 要下去吗？"
                             ]
                         },
                         {
@@ -5912,7 +5912,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices はい,いいえ"
+                                "LL_GalgeChoiceWindowMV setChoices 下去,不要"
                             ]
                         },
                         {

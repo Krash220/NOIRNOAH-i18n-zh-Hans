@@ -1458,7 +1458,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "B3F西廊下",
+    "displayName": "地下3层西廊下",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -2996,7 +2996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -3020,7 +3020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -3044,7 +3044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {

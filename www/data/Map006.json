@@ -810,7 +810,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "B1Fシエルの部屋",
+    "displayName": "地下1层希尔的房间",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -1175,7 +1175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -1206,7 +1206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -1230,7 +1230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -1254,7 +1254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -1285,7 +1285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -1309,7 +1309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {

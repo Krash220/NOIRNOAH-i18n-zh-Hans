@@ -504,7 +504,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "B3F東エレベーター",
+    "displayName": "地下3层东电梯",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -627,7 +627,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setMessageText 何階に行く？"
+                                "LL_GalgeChoiceWindowMV setMessageText 要去哪一层呢？"
                             ]
                         },
                         {
@@ -662,7 +662,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices B4F↓,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 地下4层↓,返回"
                             ]
                         },
                         {
