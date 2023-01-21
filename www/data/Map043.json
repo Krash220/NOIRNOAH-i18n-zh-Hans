@@ -504,7 +504,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "1Fエレベーター",
+    "displayName": "地上1层电梯",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -627,7 +627,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setMessageText 何階に行く？"
+                                "LL_GalgeChoiceWindowMV setMessageText 要去哪一层呢？"
                             ]
                         },
                         {
@@ -662,7 +662,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_GalgeChoiceWindowMV setChoices B1F↓,B2F↓,B3F↓,B4F↓,戻る"
+                                "LL_GalgeChoiceWindowMV setChoices 地下1层↓,地下2层↓,地下3层↓,地下4层↓,返回"
                             ]
                         },
                         {

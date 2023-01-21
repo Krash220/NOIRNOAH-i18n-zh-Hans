@@ -3,6 +3,12 @@
     src: url("BestTen-CRT.otf");
 }
 
+@font-face {
+    font-family: GameFont;
+    src: url("LanaPixel.ttf");
+    unicode-range: U+4E00-9FCB;
+}
+
 .IIV::-webkit-media-controls-play-button,
 video::-webkit-media-controls-start-playback-button {
     opacity: 0;

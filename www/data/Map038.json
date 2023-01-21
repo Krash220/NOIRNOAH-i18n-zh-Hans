@@ -1458,7 +1458,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "B4F北西通路",
+    "displayName": "地下4层西北通道",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -2676,7 +2676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -2707,7 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -2907,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {
@@ -2938,7 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノエル"
+                                "诺尔 Noel"
                             ]
                         },
                         {

@@ -2394,7 +2394,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "B1Fリビング",
+    "displayName": "地下1层客厅",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -3741,7 +3741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -3772,7 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -3883,7 +3883,7 @@
                                 1,
                                 0,
                                 4,
-                                "'Chapter1'"
+                                "'第一章'"
                             ]
                         },
                         {
@@ -4260,7 +4260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -4291,7 +4291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -5925,7 +5925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
@@ -5949,7 +5949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエル"
+                                "希尔 Ciel"
                             ]
                         },
                         {
