@@ -1,0 +1,49 @@
+# 『NOIR:NOAH』简体中文汉化工程
+
+状态：进行中
+
+本仓库内的<b><i>翻译文本</i></b>基于[CC-BY协议](LICENSE.MD)，参考引用时请注明出处。  
+在左上角选择游戏版本（R-18/R-15），右上角Code->Download ZIP下载后解压覆盖至游戏目录即可使用。  
+翻译：[-幻梦眠药-](https://space.bilibili.com/498903)  
+程序：[InformationKiller](https://github.com/InformationKiller)  
+本汉化项目不考虑合作，自己做着玩的。  
+本汉化使用基于CC-BY协议的LanaPixel字体作为中文显示字体。  
+汉化文本主要基于百度翻译、DeepL翻译、谷歌翻译结果手工修正，可能出现与原文含义存在重大偏差的情况，如果遇到相关问题，请提交issue。
+
+## 游戏本体购买&下载
+【DLsite】[R-18](https://www.dlsite.com/maniax/work/=/product_id/RJ436011.html) | [R-15](https://www.dlsite.com/maniax/work/=/product_id/RJ435996.html)
+
+---
+
+## 给自己设定的翻译标准
+1. 确保翻译出来的是人话
+2. 人物名字要统一
+3. 大部分都是对话，所以角色的语气很重要
+4. 理解剧情走向、世界观以及与前作[『HELLO, HELLO WORLD!』](https://20xxsummer.tumblr.com)的联系
+
+### 人物名称翻译
+音译  
+シエル Ciel 希尔  
+ノエル Noel 诺尔  
+```
+シエル可以音译成希耶尔、夏尔、雪儿，ノエル大多情况音译成诺艾尔
+因为两人的名字都是三个片假名且以エル结尾，可能这只是巧合，但我希望将这个巧合延续下去，所以我选择将她们的名字翻译为希尔和诺尔
+```
+ヴァイオ Vaio 薇欧  
+ラム Ram 拉姆  
+リラ Lilla 莉拉  
+アズ Azu 阿梓  
+グレア Grea 格蕾亚  
+
+日语翻译  
+モモノ Momono 桃野  
+ツツジ Tsutsuji 杜娟  
+ワカバ Wakaba 若叶  
+コハク Kohaku 琥珀  
+ヒスイ Hisui 翡翠  
+
+根据英文单词含义  
+サフィー Sapphie 青玉  
+オランジュ Orange 柑橘
+
+游戏内对话时人物名使用“中文 英文”方式显示，对话内容中的名字使用自带的Rubi_riru插件标注英文名。
