@@ -1,0 +1,31 @@
+name: 翻译文本同步工作流
+
+on:
+  push:
+    branches:
+      - R-18
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    - name: Execute
+      run: |
+        git checkout R-15
+        git config --global user.name github-actions
+        git config --global user.email github-actions@github.com
+        cd www/data
+        python _sync.py
+        python _mergeTextCommonEvents.py
+        python _mergeTextMaps.py
+        cd $GITHUB_WORKSPACE
+        git add .
+        git commit -m '自动同步翻译文本 ${{github.sha}}'
+        git push origin R-15
