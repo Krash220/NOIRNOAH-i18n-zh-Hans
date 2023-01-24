@@ -834,7 +834,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "地下1层旧通道",
+    "displayName": "地下1层隐藏通道",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
@@ -1752,7 +1752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "実績解除『共にかつて迷い込んだ昏き道に』"
+                                "成就解锁『最初偶遇的昏暗通道』"
                             ]
                         },
                         {
