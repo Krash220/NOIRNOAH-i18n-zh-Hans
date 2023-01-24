@@ -27,6 +27,7 @@ jobs:
         python _mergeTextMaps.py
         cd $GITHUB_WORKSPACE
         git checkout R-18 www/js
+        git checkout R-18 ./*.MD
         git add .
         git commit -m '自动同步翻译文本 ${{github.sha}}'
         git push origin R-15
