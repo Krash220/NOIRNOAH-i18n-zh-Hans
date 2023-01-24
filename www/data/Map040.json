@@ -834,7 +834,7 @@
         0
     ],
     "disableDashing": false,
-    "displayName": "地下1层旧通道",
+    "displayName": "地下1层隐藏通道",
     "encounterList": [],
     "encounterStep": 30,
     "events": [
