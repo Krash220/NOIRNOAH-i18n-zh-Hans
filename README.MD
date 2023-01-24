@@ -5,7 +5,7 @@
 
 本仓库内的<b><i>翻译文本</i></b>基于[CC-BY协议](LICENSE.MD)，参考引用时请注明出处。  
 当前汉化补丁对应游戏版本号：1.0.0  
-直接克隆仓库或下载对应游戏版本的仓库分支【[R-18](https://github.com/Krash220/NOIRNOAH-i18n-zh_CN/archive/refs/heads/R-18.zip) | [R-15](https://github.com/Krash220/NOIRNOAH-i18n-zh_CN/archive/refs/heads/R-15.zip)】，解压覆盖至游戏目录即可使用。  
+直接克隆仓库或下载对应游戏版本的仓库分支【[R-18](https://github.com/Krash220/NOIRNOAH-i18n-zh-Hans/archive/refs/heads/R-18.zip) | [R-15](https://github.com/Krash220/NOIRNOAH-i18n-zh-Hans/archive/refs/heads/R-15.zip)】，解压覆盖至游戏目录即可使用。  
 由于目前翻译工作还在进行中，为方便比对commit之间的差异，我对Json文件执行了格式化操作，等汉化结束会压缩回去。  
 翻译：[-幻梦眠药-](https://space.bilibili.com/498903)  
 程序：[InformationKiller](https://github.com/InformationKiller)  
