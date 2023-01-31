@@ -26,7 +26,7 @@ jobs:
         python _mergeTextCommonEvents.py
         python _mergeTextMaps.py
         cd $GITHUB_WORKSPACE
-        git checkout R-18 www/js
+        git checkout R-18 www/js/plugins
         git checkout R-18 www/img
         git checkout R-18 ./*.MD
         git add .
