@@ -27,6 +27,7 @@ jobs:
         python _mergeTextMaps.py
         cd $GITHUB_WORKSPACE
         git checkout R-18 www/js
+        git checkout R-18 www/img
         git checkout R-18 ./*.MD
         git add .
         git commit -m '分支内容同步 ${{github.sha}}'
