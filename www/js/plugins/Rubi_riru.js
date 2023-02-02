@@ -238,6 +238,7 @@ Window_Base.prototype.processEscapeCharacter = function(code, textState) {
 Window_Base.prototype.makeruby = function(textState) {
  var ruby = this.obtainEscapeParampex(textState).split(",");
     var ow = this.textWidth(ruby[0]);
+    this.contents.drawText(ruby[0], textState.x, textState.y, ow * 2, textState.height);
          this.contents.fontSize /= 3;
          this.contents.fontSize += ruby_c_size;
     var w = this.textWidth(ruby[0]);
@@ -245,7 +246,6 @@ Window_Base.prototype.makeruby = function(textState) {
          this.contents.fontSize -= ruby_c_size;
          this.contents.fontSize *= 3;
      w = this.textWidth(ruby[0]);
-    this.contents.drawText(ruby[0], textState.x, textState.y, w * 2, textState.height);
     textState.x += w;
 };
 Window_Base.prototype.obtainEscapeParampex = function(textState) {//riru文字も含めた判別
