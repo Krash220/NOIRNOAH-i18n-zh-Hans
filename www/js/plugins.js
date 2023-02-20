@@ -44,5 +44,6 @@ var $plugins =
 {"name":"KMS_QuickNotification","status":true,"description":"[v0.1.1] ポップアップ通知を表示する機能を追加します。","parameters":{"Display duration":"300","Display position":"1","Face image size":"12","Font size":"15","Max notification count":"4","Notification SE":"","Notification SE param":"100, 100","Notification skin":"QuickNotificationSkin"}},
 {"name":"Rubi_riru","status":true,"description":"ルビ振りを行います。用語登録によるオートルビ振り機能つき。","parameters":{"Auto Ruby":"true","Help Auto Ruby":"true","Database Auto Ruby":"true","Jisage":"0","Ruby Size":"-3"}},
 {"name":"Lunatlazur_BackLog","status":true,"description":"バックログ表示プラグイン","parameters":{"2カラムレイアウト":"false"}},
-{"name":"FPSLimit","status":true,"description":"Limits game refresh rate","parameters":{"FPS Limit":"60"}}
+{"name":"FPSLimit","status":true,"description":"Limits game refresh rate","parameters":{"FPS Limit":"60"}},
+{"name":"PatchVersionChecker","status":true,"description":"检查汉化补丁版本是否与游戏版本对应","parameters":{"targets":["057", "005"]}}
 ];
