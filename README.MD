@@ -1,17 +1,17 @@
 # 『NOIR:NOAH』简体中文汉化工程（粉丝自制）
 
-状态：进行中  
+状态：完成  
 本项目不考虑合作，自己做着玩的，顺带学习日语啦，作者推特说[预计在2022年12月到2023年2月推出英语/简体中文/繁体中文/韩语版本](https://twitter.com/metro04_/status/1595074945402671106)，所以可以期待一下官方翻译喔。  
 本汉化补丁仅用于学习与交流，<b>请勿用于商业用途</b>。游戏版权归[游戏作者](https://twitter.com/metro04_)所有，如果喜欢该游戏，请[支持正版](https://www.dlsite.com/maniax/work/=/product_id/RJ436011.html)。
 
 本仓库内的<b><i>翻译文本</i></b>基于[CC-BY协议](LICENSE.MD)，参考引用时请注明出处。  
 当前汉化补丁对应游戏版本号：1.0.0  
-直接克隆仓库或下载对应游戏版本的仓库分支【[R-18](https://github.com/Krash220/NOIRNOAH-i18n-zh-Hans/archive/refs/heads/R-18.zip) | [R-15](https://github.com/Krash220/NOIRNOAH-i18n-zh-Hans/archive/refs/heads/R-15.zip)】，解压覆盖至游戏目录即可使用。  
-由于目前翻译工作还在进行中，为方便比对commit之间的差异，我对Json文件执行了格式化操作，等汉化结束会压缩回去。  
+在[Release](https://github.com/Krash220/NOIRNOAH-i18n-zh-Hans/releases)中下载最新版本汉化补丁，覆盖至游戏目录即可使用，下载时请注意区分【R-15|R-18】版。  
+
 翻译：[-幻梦眠药-](https://space.bilibili.com/498903)  
 程序：[InformationKiller](https://github.com/InformationKiller)  
 本汉化使用基于CC-BY协议的LanaPixel字体作为中文显示字体。  
-汉化文本主要基于百度翻译、DeepL翻译、谷歌翻译结果手工修正，可能出现与原文含义存在重大偏差的情况，如果遇到相关问题，请提交issue。
+汉化文本主要基于机翻结果含义进行主观翻译（想到与用自己的话把机翻结果重新说一遍），可能出现与原文含义存在重大偏差的情况，如果遇到相关问题，请提交issue。
 
 ## 游戏本体购买&下载
 【DLsite】[R-18](https://www.dlsite.com/maniax/work/=/product_id/RJ436011.html) | [R-15](https://www.dlsite.com/maniax/work/=/product_id/RJ435996.html)
